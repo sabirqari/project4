@@ -12,7 +12,7 @@ public class DemoTest4 {
         System.out.println( a + b + c);
 
 
-		  int c = 20;
+		  int d = 20;
 		int g = 40;
 		System.out.println( c + g);
 	}
