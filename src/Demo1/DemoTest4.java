@@ -10,6 +10,11 @@ public class DemoTest4 {
         int b = 20;
         int c  = 30;
         System.out.println( a + b + c);
-        
+
+
+		  int c = 20;
+		int g = 40;
+		System.out.println( c + g);
+	}
 	}
 }
